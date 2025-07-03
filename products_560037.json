@@ -1,385 +1,853 @@
 {
-  "extractedAt": "2025-07-02T09:43:41.453Z",
-  "location": "412307",
-  "searchTerm": "milk",
+  "extractedAt": "2025-07-03T06:21:22.712Z",
+  "location": "492001",
+  "searchTerm": "rice",
   "products": [
     {
-      "Name": "Amul Taaza Toned Milk",
-      "Quantity": "500 ml",
-      "Price": "₹29",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants All Night Absorb Diaper (XL, 12-17kg - 54 Diapers)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Chitale Pasteurised Cow Milk",
-      "Quantity": "500 ml",
-      "Price": "₹29",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Standard Diaper (M, 7-12 kg)",
+      "Quantity": "1 pack (48 pieces)",
+      "Price": "₹441",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Chitale Full Cream Milk",
-      "Quantity": "500 ml",
-      "Price": "₹37",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Standard Diaper (XL, 12-17 kg)",
+      "Quantity": "1 pack (36 pieces)",
+      "Price": "₹441",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Gold Full Cream Milk",
-      "Quantity": "500 ml",
-      "Price": "₹36",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Complete Comfort Wonder Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (13 pieces)",
+      "Price": "₹199",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Cow Milk",
-      "Quantity": "500 ml",
-      "Price": "₹29",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants All Night Absorb Diaper (XXL 15-25 kg - 40 Diapers)",
+      "Quantity": "1 pack (40 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Taaza Homogenised Toned Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹74",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Wonder Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (16 pieces)",
+      "Price": "₹199",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Moti Toned Milk (90 Days Shelf Life)",
-      "Quantity": "450 ml",
-      "Price": "₹33",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Standard Diaper (S, 4-8 kg)",
+      "Quantity": "1 pack (60 pieces)",
+      "Price": "₹441",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Taaza Toned Milk",
-      "Quantity": "200 ml",
-      "Price": "₹16",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Premium Care Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (26 pieces)",
+      "Price": "₹652",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Gold Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹83",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Extra Absorb New Born Diaper (upto 5 kg)",
+      "Quantity": "1 pack (74 pieces)",
+      "Price": "₹712",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Lactose Free Milk",
-      "Quantity": "250 ml",
-      "Price": "₹26",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Extra Absorb Diaper (XXL, 15-25 kg)",
+      "Quantity": "1 pack (34 pieces)",
+      "Price": "₹650",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Go Daily Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹65",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper Pants, New Born Upto 5 kg",
+      "Quantity": "1 pack (40 pieces)",
+      "Price": "₹299",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Calci+ Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹95",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (36 pieces)",
+      "Price": "₹642",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Mother Dairy FIT Life Homogenized Double Toned Milk (450 ml)",
-      "Quantity": "450 ml",
-      "Price": "₹33",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Extra Absorb Diaper (L, 9-14 kg)",
+      "Quantity": "1 pack (64 pieces)",
+      "Price": "₹885",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Mother Dairy Toned Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹74",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers All Round Protection Anti Rash Diaper (Pants, XXL, 15-25 kg)",
+      "Quantity": "1 pack (42 pieces)",
+      "Price": "₹967",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Nestle a+ Slim Skimmed Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹100",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper Pants, M, 7-12 kg",
+      "Quantity": "1 pack (32 pieces)",
+      "Price": "₹295",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Go Supremo Cow Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹72",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Dry Diaper (Pants, S, 4-8 kg)",
+      "Quantity": "1 pack (32 pieces)",
+      "Price": "₹276",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Nestle a+ Toned Milk",
-      "Quantity": "1 ltr",
-      "Price": "₹111",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants Extra Absorb Diaper (XL, 12-17 kg)",
+      "Quantity": "1 pack (40 pieces)",
+      "Price": "₹712",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Yakult Probiotic Drink",
-      "Quantity": "5 x 65 ml",
-      "Price": "₹90",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Premium Care Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹1,010",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Yakult Light Probiotic Drink",
-      "Quantity": "5 x 65 ml",
-      "Price": "₹100",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers All Round Protection Anti Rash Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (56 pieces)",
+      "Price": "₹1,060",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Yakult Light Mango Probiotic Fermented Milk Drink",
-      "Quantity": "5 x 65 ml",
-      "Price": "₹100",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants All Night Absorb Diaper (M 7-12 kg - 72 Diapers)",
+      "Quantity": "1 pack (72 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Pure Milk Cheese Slices",
-      "Quantity": "200 g",
-      "Price": "₹144",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Premium Care Diaper (Pants, S, 4-8 kg)",
+      "Quantity": "1 pack (70 pieces)",
+      "Price": "₹952",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "English Oven Milk Bread",
-      "Quantity": "400 g",
-      "Price": "₹45",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers All Round Protection Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (30 pieces)",
+      "Price": "₹644",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "The Health Factory Zero Maida Milk Bread",
-      "Quantity": "250 g",
-      "Price": "₹56",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper Pants, XL, 12-17 kg | Jumbo Pack",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹606",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Mithai Mate Condensed Milk",
-      "Quantity": "200 g",
-      "Price": "₹68",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, L, 9-14 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (62 pieces)",
+      "Price": "₹949",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Kesar Badam Flavoured Milk",
-      "Quantity": "500 ml",
-      "Price": "₹54",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, M, 7 - 12 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (72 pieces)",
+      "Price": "₹974",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Kesar Flavoured Milk",
-      "Quantity": "180 ml",
-      "Price": "₹25",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum New Born Baby Diaper (Pants, 2-5 Kg)",
+      "Quantity": "1 pack (60 pieces)",
+      "Price": "₹499",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk",
-      "Quantity": "200 ml",
-      "Price": "₹30",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, XXXL, 18-35 Kg)",
+      "Quantity": "24 pieces",
+      "Price": "₹559",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Badam Flavoured Milk",
-      "Quantity": "180 ml",
-      "Price": "₹25",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, XXL, 15-25 kg)",
+      "Quantity": "40 pieces",
+      "Price": "₹559",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Mithai Mate Condensed Milk",
-      "Quantity": "400 g",
-      "Price": "₹126",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (62 pieces)",
+      "Price": "₹537",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Rose Flavoured Milk",
-      "Quantity": "180 ml",
-      "Price": "₹25",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, XL, 12-18 kg)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹537",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Strawberry Flavoured Milk",
-      "Quantity": "200 ml",
-      "Price": "₹30",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Bumtum Baby Diaper (Pants, M, 7 - 12 kg)",
+      "Quantity": "1 pack (72 pieces)",
+      "Price": "₹550",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Nestle Milkmaid Mini Sweetened Liquid Condensed Milk",
-      "Quantity": "210 g",
-      "Price": "₹89",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Active Baby Diaper (New Born, Upto 5 kg)",
+      "Quantity": "1 pack (72 pieces)",
+      "Price": "₹1,044",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk",
-      "Quantity": "380 g",
-      "Price": "₹152",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Pampers Premium Care Pants Diaper (NB 0-5 kg)",
+      "Quantity": "1 pack (70 pieces)",
+      "Price": "₹780",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Smoodh Chocolate Dairy Based Flavoured Milk (Pet Bottle)",
-      "Quantity": "150 ml",
-      "Price": "₹19",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Wonder Diaper (Pants, XXL, 15-25 kg)",
+      "Quantity": "1 pack (24 pieces)",
+      "Price": "₹433",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Smoodh Toffee Caramel Flavoured Milk (Pet Bottle)",
-      "Quantity": "150 ml",
-      "Price": "₹18",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "LuvLap Baby Diaper Pants (XL, 12-17 kg)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹611",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Koko Chocolate Flavoured Milk",
-      "Quantity": "200 ml",
-      "Price": "₹35",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper Pants, S, 4-8 kg",
+      "Quantity": "1 pack (42 pieces)",
+      "Price": "₹335",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Cafe Hazelnut Flavoured Milk",
-      "Quantity": "200 ml",
-      "Price": "₹30",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Wonder Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (50 pieces)",
+      "Price": "₹547",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk (Can)",
-      "Quantity": "200 ml",
-      "Price": "₹35",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper Pants, XL, 12-17 kg",
+      "Quantity": "1 pack (24 pieces)",
+      "Price": "₹285",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Lite Milk Fat Spread",
-      "Quantity": "500 g",
-      "Price": "₹232",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "MamyPoko Pants All Night Absorb Diaper (S, 4-8kg - 90 Diapers)",
+      "Quantity": "1 pack (90 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Sweetened Condensed Milk Gold",
-      "Quantity": "405 g",
-      "Price": "₹147",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Wonder Diaper (Pants, XS, Upto 5 kg)",
+      "Quantity": "1 pack (24 pieces)",
+      "Price": "₹182",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Cafe Cinnamon Flavoured Milk",
-      "Quantity": "200 ml",
-      "Price": "₹30",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Huggies Complete Comfort Wonder Pants Diaper (S, 4-8 kg)",
+      "Quantity": "1 pack (44 pieces)",
+      "Price": "₹353",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     },
     {
-      "Name": "Amul Kool Royal Elaichi Flavoured Milk",
-      "Quantity": "180 ml",
-      "Price": "₹29",
-      "Category": "milk",
-      "Location": "Pune, Maharashtra 412307, India",
-      "Pincode": "412307",
-      "Date": "2025-07-02T09:43:41.453Z"
+      "Name": "Little's Premium Baby Diaper (Pants, XXL, 15-25 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (22 pieces)",
+      "Price": "₹590",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Little's Premium Baby Diaper (Pants, New Born Upto 5 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (40 pieces)",
+      "Price": "₹590",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Baby Dry Tape Diaper (New Born)",
+      "Quantity": "2 packs (36 pieces)",
+      "Price": "₹713",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Pants Diaper (New Born, Upto 5 kg)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹523",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Little's Comfy Baby Pants Diaper",
+      "Quantity": "1 pack (48 pieces)",
+      "Price": "₹533",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "LuvLap Supreme Pants Diaper (XL, 12 - 17 kg)",
+      "Quantity": "1 pack (54 pieces)",
+      "Price": "₹873",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, S, 4-8 kg)",
+      "Quantity": "1 pack (86 pieces)",
+      "Price": "₹708",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (76 pieces)",
+      "Price": "₹724",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Premium Care Diaper (Pants, Large, 9-14 kg)",
+      "Quantity": "1 pack (88 pieces)",
+      "Price": "₹1,790",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Diaper (Pants, S, 4-8 kg)",
+      "Quantity": "1 pack (52 pieces)",
+      "Price": "₹552",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, XXL, 15-25 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (24 pieces)",
+      "Price": "₹854",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (112 pieces)",
+      "Price": "₹1,855",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Little's Premium Baby Diaper Pants, XXL, 15-25 kg",
+      "Quantity": "1 pack (22 pieces)",
+      "Price": "₹299",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Diaper (Pants, XXXL, 17+ kg)",
+      "Quantity": "1 pack (22 pieces)",
+      "Price": "₹1,002",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers All Round Protection Diaper (Pants, XXL, 15-25 kg)",
+      "Quantity": "1 pack (26 pieces)",
+      "Price": "₹671",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (L, 9 - 14 kg)",
+      "Quantity": "1 pack (50 pieces)",
+      "Price": "₹1,160",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (M, 6-11 kg)",
+      "Quantity": "1 pack (90 pieces)",
+      "Price": "₹1,670",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (L, 9-14 kg)",
+      "Quantity": "1 pack (78 pieces)",
+      "Price": "₹1,693",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (M, 6 - 11 kg)",
+      "Quantity": "1 pack (62 pieces)",
+      "Price": "₹1,214",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, S, 4-8 kg)",
+      "Quantity": "1 pack (20 pieces)",
+      "Price": "₹199",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers All Round Protection Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (42 pieces)",
+      "Price": "₹642",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Dry Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (24 pieces)",
+      "Price": "₹276",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Little's Premium Baby Diaper Pants, L, 9-14 kg",
+      "Quantity": "1 pack (30 pieces)",
+      "Price": "₹305",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Premium Care Diaper (Pants, XXL, 15-25 kg)",
+      "Quantity": "1 pack (30 pieces)",
+      "Price": "₹984",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Fastest Absorbing Wonder Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (56 pieces)",
+      "Price": "₹734",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants All Night Absorb Diaper (L 9-14 kg - 66 Diapers)",
+      "Quantity": "1 pack (66 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Premium Care Diaper (Pants, XL, 12-17 kg, 72 pcs)",
+      "Quantity": "1 pack (72 pieces)",
+      "Price": "₹1,806",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Bumtum Baby Diaper (Pants, XL, 12-18 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (54 pieces)",
+      "Price": "₹950",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Bumtum Baby Diaper (Pants, S, 3 -8 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (78 pieces)",
+      "Price": "₹975",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants All Night Absorb Diaper (NB, upto 5 kg - 96 Diapers)",
+      "Quantity": "1 pack (96 pieces)",
+      "Price": "₹641",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Dry Diaper (Pants, M, 7-12 kg)",
+      "Quantity": "1 pack (26 pieces)",
+      "Price": "₹276",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (34 pieces)",
+      "Price": "₹557",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (42 pieces)",
+      "Price": "₹547",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Pants Diaper (L)",
+      "Quantity": "1 pack (36 pieces)",
+      "Price": "₹372",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Pants Diaper (M, 7-12 kg)",
+      "Quantity": "36 pieces",
+      "Price": "₹353",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Pants Diaper (Size XL)",
+      "Quantity": "1 pack (26 pieces)",
+      "Price": "₹353",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants Extra Absorb Diaper (XL, 12-17 kg)",
+      "Quantity": "1 pack (52 pieces)",
+      "Price": "₹958",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Bumtum Baby Diaper (Pants, S, 3 -8 kg)",
+      "Quantity": "1 pack (78 pieces)",
+      "Price": "₹550",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Little's Premium Baby Diaper Pants, L, 9-14 kg | Jumbo Pack",
+      "Quantity": "1 pack (62 pieces)",
+      "Price": "₹606",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (64 pieces)",
+      "Price": "₹734",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "LuvLap Baby Diaper Pants (L, 9-14 kg)",
+      "Quantity": "1 pack (62 pieces)",
+      "Price": "₹580",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Complete Comfort Wonder Pants Diaper (XXXL, 17+ kg)",
+      "Quantity": "1 pack (24 pieces)",
+      "Price": "₹830",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "LuvLap Baby Diaper Pants (M, 7-12 kg)",
+      "Quantity": "1 pack (72 pieces)",
+      "Price": "₹602",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "LuvLap Baby Diaper Pants (S, 4-8 kg)",
+      "Quantity": "1 pack (78 pieces)",
+      "Price": "₹613",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Premium Care Diaper (Pants, XL, 12-17 kg)",
+      "Quantity": "1 pack (36 pieces)",
+      "Price": "₹968",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants Extra Absorb Diaper (M, 7-12 kg)",
+      "Quantity": "1 pack (74 pieces)",
+      "Price": "₹958",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants Extra Absorb Diaper (M, 7-12 kg, 42 pieces)",
+      "Quantity": "1 pack (42 pieces)",
+      "Price": "₹534",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants Extra Absorb Diaper (S)",
+      "Quantity": "1 pack (66 pieces)",
+      "Price": "₹712",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, XS, Upto 5 kg) - Pack of 2",
+      "Quantity": "2 x 1 pack (24 pieces)",
+      "Price": "₹360",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "MamyPoko Pants Standard Diaper (L, 9-14 kg)",
+      "Quantity": "1 pack (44 pieces)",
+      "Price": "₹441",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (XL, 12+ kg)",
+      "Quantity": "1 pack (56 pieces)",
+      "Price": "₹1,650",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Pampers Active Baby Diaper (S, upto 8 kg)",
+      "Quantity": "92 pieces",
+      "Price": "₹1,589",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
+    },
+    {
+      "Name": "Huggies Wonder Diaper (Pants, L, 9-14 kg)",
+      "Quantity": "1 pack (14 pieces)",
+      "Price": "₹199",
+      "Category": "care",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-03T06:21:22.712Z"
     }
   ]
 }

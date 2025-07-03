@@ -14,6 +14,22 @@ function parseDateString(dateStr) {
   return new Date(dateStr);
 }
 
+// Helper to format ISO date strings for display
+function formatDateString(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  if (isNaN(d)) return '';
+  return d.toLocaleString('en-IN', {
+    year: 'numeric',
+    month: 'short',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+    timeZone: 'Asia/Kolkata'
+  });
+}
+
 export default function DataTable() {
   const [products, setProducts] = useState([])
   const [filteredProducts, setFilteredProducts] = useState([])
@@ -256,16 +272,7 @@ export default function DataTable() {
                       {product.pincode}
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                      {product.date ? (() => {
-                        const d = parseDateString(product.date);
-                        return d && !isNaN(d) ? d.toLocaleString('en-GB', {
-                          year: 'numeric',
-                          month: 'short',
-                          day: '2-digit',
-                          hour: '2-digit',
-                          minute: '2-digit'
-                        }) : ''
-                      })() : ''}
+                      {product.date ? formatDateString(product.date) : ''}
                     </td>
                   </tr>
                 ))

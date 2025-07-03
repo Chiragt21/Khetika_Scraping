@@ -30,7 +30,8 @@ const CONFIG = {
   }
 };
 
-const pincodes = process.argv[2].split(',').map(p => p.trim());
+// Robustly split pincodes by comma, allowing optional spaces
+const pincodes = process.argv[2].split(/\s*,\s*/).filter(Boolean);
 const searchTerm = process.argv[3] || 'rice';
 const extractionTime = new Date().toISOString();
 const XLSX = require('xlsx');
@@ -46,12 +47,6 @@ const categoryName = categoryMatch ? (categoryMatch[1] || (categoryMatch[2] ? ca
 
 const main = async () => {
   let allProducts = [];
-
-  if (fs.existsSync('products_560037.xlsx')) {
-    const workbook = XLSX.readFile('products_560037.xlsx');
-    const sheet = workbook.Sheets[workbook.SheetNames[0]];
-    allProducts = XLSX.utils.sheet_to_json(sheet);
-  }
 
   for (const locationInput of pincodes) {
     const isPincode = /^\d{5,6}$/.test(locationInput.trim());
@@ -232,8 +227,8 @@ const main = async () => {
           console.log(`✅ Finished scrolling. Total products found: ${currentCount}`);
         } else if (mode === 'category') {
           console.log('🟢 Entered category mode, looking for category:', categoryName);
-          if (!categoryName) {
-            console.log('❌ No category name provided!');
+          if (!categoryName || categoryName.trim().length < 3) {
+            console.log('❌ Please enter at least 3 letters for category matching!');
             return;
           }
           await page.waitForTimeout(2000);
@@ -266,6 +261,7 @@ const main = async () => {
           const containers = await grid.$$('.Imagestyles__ImageContainer-sc-1u3ccmn-0.gwkGLQ');
           let found = false;
           const availableCategories = [];
+          const inputLower = categoryName.trim().toLowerCase();
           for (let i = 0; i < containers.length; i++) {
             const container = containers[i];
             await container.evaluate(node => node.scrollIntoView({ behavior: 'smooth', block: 'center' }));
@@ -274,7 +270,6 @@ const main = async () => {
             let img = await container.$('img');
             if (img) {
               const alt = await img.getAttribute('alt');
-              console.log('Raw alt attribute:', alt);
               if (alt) {
                 const dashIdx = alt.indexOf('-');
                 label = dashIdx !== -1 ? alt.substring(dashIdx + 1).trim() : alt.trim();
@@ -304,8 +299,12 @@ const main = async () => {
             if (label) {
               availableCategories.push(label);
             }
-            console.log('Checking category:', label);
-            if (label && label.toLowerCase() === categoryName.toLowerCase()) {
+            // --- MATCH ANYWHERE, MIN 3 LETTERS ---
+            if (
+              label &&
+              inputLower.length >= 3 &&
+              label.toLowerCase().includes(inputLower)
+            ) {
               await page.waitForTimeout(500);
               if (img) {
                 await img.click();
@@ -645,6 +644,8 @@ const main = async () => {
   
   XLSX.writeFile(workbook, 'products_560037.xlsx', writeOptions);
   console.log("📊 Data successfully saved to products_560037.xlsx");
+  // Print total products summary for dashboard parsing
+  console.log(`✅ Successfully extracted TOTAL products: ${allProducts.length}`);
 };
 
 main(); 

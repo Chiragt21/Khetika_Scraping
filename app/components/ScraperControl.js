@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Play, Pause, Square, Settings, Clock, CheckCircle, AlertCircle, Terminal } from 'lucide-react'
 
 // Helper to robustly parse and format ISO and legacy date strings
@@ -28,6 +28,8 @@ export default function ScraperControl() {
     category: ''
   })
   const [logs, setLogs] = useState([])
+  const pollIntervalRef = useRef(null);
+  const timeoutRef = useRef(null);
 
   useEffect(() => {
     // Load job history from localStorage
@@ -40,6 +42,7 @@ export default function ScraperControl() {
   const startScraping = async () => {
     setIsRunning(true)
     const jobId = Date.now()
+    let processId = null;
     const newJob = {
       id: jobId,
       status: 'running',
@@ -67,9 +70,12 @@ export default function ScraperControl() {
       const result = await response.json()
       
       if (result.success) {
+        processId = result.processId;
         addLog(`✅ Scraper started successfully (PID: ${result.processId})`)
         addLog(`📋 Command: ${result.command}`)
-        
+        // Store processId in currentJob config
+        setCurrentJob(prev => prev ? { ...prev, config: { ...prev.config, processId } } : prev);
+        setJobHistory(prev => prev.map(job => job.id === jobId ? { ...job, config: { ...job.config, processId } } : job));
         // Start monitoring the scraper process
         monitorScraperProcess(jobId, result.processId)
       } else {
@@ -84,15 +90,14 @@ export default function ScraperControl() {
   }
 
   const monitorScraperProcess = (jobId, processId) => {
-    // Poll for scraper status every 3 seconds
-    const pollInterval = setInterval(async () => {
+    pollIntervalRef.current = setInterval(async () => {
       try {
         // Check if the process is still running
         const response = await fetch('/api/scraper')
         const data = await response.json()
         
         if (data.error) {
-          clearInterval(pollInterval)
+          clearInterval(pollIntervalRef.current)
           updateJobStatus(jobId, 'failed', data.error)
           setIsRunning(false)
           return
@@ -103,7 +108,7 @@ export default function ScraperControl() {
         
         if (!ourProcess) {
           // Process has completed
-          clearInterval(pollInterval)
+          clearInterval(pollIntervalRef.current)
           updateJobStatus(jobId, 'completed', null, 96) // Default to 96 products
           setIsRunning(false)
           addLog('✅ Scraping completed')
@@ -112,12 +117,12 @@ export default function ScraperControl() {
         
         // Update progress based on process status
         if (ourProcess.status === 'completed') {
-          clearInterval(pollInterval)
+          clearInterval(pollIntervalRef.current)
           updateJobStatus(jobId, 'completed', null, ourProcess.productsFound || 96)
           setIsRunning(false)
           addLog(`✅ Scraping completed with ${ourProcess.productsFound || 96} products`)
         } else if (ourProcess.status === 'failed') {
-          clearInterval(pollInterval)
+          clearInterval(pollIntervalRef.current)
           updateJobStatus(jobId, 'failed', 'Scraper process failed')
           setIsRunning(false)
           addLog('❌ Scraping failed')
@@ -130,15 +135,14 @@ export default function ScraperControl() {
         
       } catch (error) {
         console.error('Error monitoring scraper:', error)
-        clearInterval(pollInterval)
+        clearInterval(pollIntervalRef.current)
         updateJobStatus(jobId, 'failed', 'Lost connection to scraper process')
         setIsRunning(false)
       }
     }, 3000)
     
-    // Set a timeout to mark as completed after a reasonable time
-    setTimeout(() => {
-      clearInterval(pollInterval)
+    timeoutRef.current = setTimeout(() => {
+      clearInterval(pollIntervalRef.current)
       if (isRunning) {
         updateJobStatus(jobId, 'completed', null, 96)
         setIsRunning(false)
@@ -149,7 +153,21 @@ export default function ScraperControl() {
 
   const stopScraping = async () => {
     setIsRunning(false)
+    if (pollIntervalRef.current) clearInterval(pollIntervalRef.current);
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
     if (currentJob) {
+      try {
+        // Call backend to kill the process
+        if (currentJob.config && currentJob.config.processId) {
+          await fetch('/api/scraper', {
+            method: 'DELETE',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ pid: currentJob.config.processId })
+          });
+        }
+      } catch (err) {
+        console.error('Failed to stop backend process:', err);
+      }
       updateJobStatus(currentJob.id, 'stopped')
       addLog('🛑 Scraping stopped by user')
     }
@@ -162,10 +180,13 @@ export default function ScraperControl() {
     setLogs(prev => [...prev, logEntry])
     
     if (currentJob) {
-      setCurrentJob(prev => ({
-        ...prev,
-        logs: [...(prev.logs || []), logEntry]
-      }))
+      setCurrentJob(prev => {
+        if (!prev) return prev;
+        return {
+          ...prev,
+          logs: [...(prev.logs || []), logEntry]
+        };
+      })
     }
   }
 
@@ -188,7 +209,7 @@ export default function ScraperControl() {
           status, 
           endTime, 
           error, 
-          productsFound: productsFound || job.productsFound 
+          productsFound: status === 'stopped' ? 0 : (productsFound || job.productsFound) 
         } : job
       )
       
@@ -420,9 +441,14 @@ export default function ScraperControl() {
                   <span className={`px-2 py-1 text-xs font-medium rounded-full ${getStatusColor(job.status)}`}>
                     {job.status}
                   </span>
-                  {job.productsFound > 0 && (
+                  {job.status !== 'stopped' && job.productsFound > 0 && (
                     <span className="text-sm text-gray-600">
                       {job.productsFound} products
+                    </span>
+                  )}
+                  {job.status === 'stopped' && (
+                    <span className="text-sm text-gray-600">
+                      Stopped
                     </span>
                   )}
                 </div>

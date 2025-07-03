@@ -59,10 +59,16 @@ export async function POST(request) {
       processInfo.output += output
       console.log('Scraper output:', output)
       
-      // Try to extract products found from output
-      const productsMatch = output.match(/✅ Successfully extracted (\d+) products/)
-      if (productsMatch) {
-        processInfo.productsFound = parseInt(productsMatch[1])
+      // Try to extract total products found from summary line
+      const totalMatch = output.match(/✅ Successfully extracted TOTAL products: (\d+)/)
+      if (totalMatch) {
+        processInfo.productsFound = parseInt(totalMatch[1])
+      } else {
+        // Fallback: extract from old per-pincode line
+        const productsMatch = output.match(/✅ Successfully extracted (\d+) products/)
+        if (productsMatch) {
+          processInfo.productsFound = parseInt(productsMatch[1])
+        }
       }
     })
 
@@ -116,5 +122,25 @@ export async function GET() {
     })
   } catch (error) {
     return NextResponse.json({ error: error.message }, { status: 500 })
+  }
+}
+
+export async function DELETE(request) {
+  try {
+    const { pid } = await request.json();
+    const processInfo = activeProcesses.get(pid);
+    if (processInfo && processInfo.pid) {
+      try {
+        process.kill(processInfo.pid);
+      } catch (err) {
+        // Ignore if already killed
+      }
+      activeProcesses.delete(pid);
+      return NextResponse.json({ success: true, message: `Process ${pid} killed` });
+    } else {
+      return NextResponse.json({ error: 'Process not found' }, { status: 404 });
+    }
+  } catch (error) {
+    return NextResponse.json({ error: error.message }, { status: 500 });
   }
 } 
