@@ -114,6 +114,7 @@ const main = async () => {
           }
         } catch (e) {
           // Continue to next selector
+          //add sample
         }
       }
       
