@@ -7,7 +7,7 @@
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
-    "dev": "next dev",
+    "dev": "set PORT=5000 && next dev",
     "build": "next build",
     "start": "next start",
     "scrape": "node scraper_experiment.js"

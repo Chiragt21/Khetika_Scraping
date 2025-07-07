@@ -45,6 +45,22 @@ const mode = modeMatch ? modeMatch[1] : 'search';
 const categoryMatch = args.match(/--category=(?:"([^"]+)"|([^\s][^\-]*))/);
 const categoryName = categoryMatch ? (categoryMatch[1] || (categoryMatch[2] ? categoryMatch[2].trim() : '')) : '';
 
+const userAgents = [
+  // Windows Chrome
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  // Mac Chrome
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  // Linux Chrome
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  // Windows Edge
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0",
+  // Android Chrome
+  "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36"
+];
+function getRandomUserAgent() {
+  return userAgents[Math.floor(Math.random() * userAgents.length)];
+}
+
 const main = async () => {
   let allProducts = [];
 
@@ -52,11 +68,13 @@ const main = async () => {
     const isPincode = /^\d{5,6}$/.test(locationInput.trim());
     let browser = null;
     let page = null;
+    let scrapeFailed = false;
+    let scrapeErrorMessage = "";
     
     try {
       const { chromium } = require('playwright');
-      browser = await chromium.launch({ headless: false });
-      page = await browser.newPage();
+      browser = await chromium.launch({ headless: true });
+      page = await browser.newPage({ userAgent: getRandomUserAgent() });
       
       // Maximize the browser window for better visibility
       await page.setViewportSize({ width: 1920, height: 1080 });
@@ -100,7 +118,11 @@ const main = async () => {
       }
       
       if (!locationInputField) {
-        throw new Error("Could not find location input field");
+        await page.screenshot({ path: 'debug-location-error.png' });
+        console.log('📸 Debug screenshot saved as debug-location-error.png');
+        scrapeFailed = true;
+        scrapeErrorMessage = "Could not find location input field";
+        throw new Error(scrapeErrorMessage);
       }
       
       // Fill location (do not press Enter)
@@ -598,7 +620,7 @@ const main = async () => {
           if (error) {
             console.error('❌ Error inserting into Supabase:', error.message);
           } else {
-            console.log(`✅ Inserted ${supabaseProducts.length} products into Supabase`);
+            console.log(`✅ Inserted ${supabaseProducts.length} products into Supabase. Data:`, data);
           }
         }
 
@@ -617,6 +639,8 @@ const main = async () => {
         throw new Error("No location options found in dropdown");
       }
     } catch (error) {
+      scrapeFailed = true;
+      scrapeErrorMessage = error.message;
       console.error("❌ Error occurred:", error.message);
       await page.screenshot({ path: 'error-screenshot.png' });
       console.log("📸 Error screenshot saved as error-screenshot.png");
@@ -624,6 +648,10 @@ const main = async () => {
       await page.waitForTimeout(1000); // Reduced from 3000ms to 1000ms for faster completion
       await browser.close();
       console.log("🔚 Browser closed");
+      if (scrapeFailed) {
+        console.log(`❌ Scrape failed: ${scrapeErrorMessage}`);
+        process.exit(1); // Exit with error code
+      }
     }
   }
 

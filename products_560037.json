@@ -1,241 +1,799 @@
 {
-  "extractedAt": "2025-07-04T05:03:31.306Z",
-  "location": "410014",
-  "searchTerm": "curd",
+  "extractedAt": "2025-07-07T09:20:57.906Z",
+  "location": "492001",
+  "searchTerm": "rice",
   "products": [
     {
-      "Name": "Desi Farms Low Fat Dahi / Pouch Curd",
-      "Quantity": "400 g",
-      "Price": "₹40",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "Daawat Super Basmati Rice (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹750",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Amul Masti Pouch Curd",
-      "Quantity": "390 g",
-      "Price": "₹35",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Amul Masti Cup Curd",
-      "Quantity": "200 g",
-      "Price": "₹24",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Mother Dairy Classic Cup Curd",
-      "Quantity": "400 g",
-      "Price": "₹50",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Desi Farms Malai Cup Curd (Dahi)",
-      "Quantity": "200 g",
-      "Price": "₹38",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Amul High Protein Probiotic Cup Curd",
-      "Quantity": "400 g",
-      "Price": "₹70",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Chitale Pouch Curd",
-      "Quantity": "400 g",
-      "Price": "₹37",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Mother Dairy Ultimate Cup Curd",
-      "Quantity": "400 g",
-      "Price": "₹70",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Truly Desi A2 Kullhad Cup Curd",
-      "Quantity": "250 g",
-      "Price": "₹60",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "iD Creamy Thick Pouch Curd",
-      "Quantity": "400 g",
-      "Price": "₹50",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "iD Creamy Thick Cup Curd",
-      "Quantity": "400 g",
-      "Price": "₹85",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Amul Pouch Curd",
-      "Quantity": "800 g",
-      "Price": "₹50",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Yu Pink Sauce Instant Wheat Pasta (Penne) - Buy 1 Get 1 Free",
-      "Quantity": "65 g + 65 g",
-      "Price": "₹45",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Mother Dairy Classic Pouch Pouch Curd",
-      "Quantity": "400 g",
-      "Price": "₹35",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Nestle a+ Dahi, Thick & Creamy Cup Curd",
-      "Quantity": "380 g",
-      "Price": "₹80",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Nestle a+ ActiPlus Dahi, Low-fat Cup Curd with Probiotics",
-      "Quantity": "380 g",
-      "Price": "₹77",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Yu 100% Natural Coconut Water",
-      "Quantity": "6 x 200 ml",
-      "Price": "₹180",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Nestle a+ Dahi, Thick & Creamy Cup Curd",
-      "Quantity": "180 g",
-      "Price": "₹35",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
-    },
-    {
-      "Name": "Mother Dairy Classic Pouch Curd",
+      "Name": "Whole Farm Premium Parmal Rice",
       "Quantity": "1 kg",
-      "Price": "₹82",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Price": "₹64",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Modern Dairy Special Pouch Curd",
-      "Quantity": "500 g",
-      "Price": "₹45",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "Fortune Rozana Gold Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹99",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Modern Dairy Special Cup Curd",
+      "Name": "Daawat Biryani Basmati Rice (Long Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹233",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Everyday Pure Basmati Rice (Medium Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹376",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Rozana Super Basmati Rice (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹378",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Raw Sonamasuri Rice (16-24 months old)",
+      "Quantity": "1 kg",
+      "Price": "₹84",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Brown Basmati Rice (Extra Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹788",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Pulav Pure Basmati Rice (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹646",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Biryani Pure Basmati Rice (Extra Long Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹164",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Hyderabadi Biryani Kit",
+      "Quantity": "334 g",
+      "Price": "₹129",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Puffed Rice - Muri",
       "Quantity": "200 g",
-      "Price": "₹35",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Price": "₹27",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Gokul Pouch Curd",
+      "Name": "India Gate Feast Rozana Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹425",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Idli Rice",
+      "Quantity": "1 kg",
+      "Price": "₹117",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery HMT Steam Kolam Rice",
+      "Quantity": "5 kg",
+      "Price": "₹307",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Super Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹739",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Regular Choice Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹415",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Kali Much Rice",
+      "Quantity": "5 kg",
+      "Price": "₹448",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Kohinoor Super Value Basmati Rice",
+      "Quantity": "1.25 kg (1 kg + 250 g)",
+      "Price": "₹177",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Mini II Mogra Basmati Rice (Short Grain)",
+      "Quantity": "10 kg",
+      "Price": "₹497",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Kohinoor Charminar Long Grain Rice",
+      "Quantity": "5 kg",
+      "Price": "₹328",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Mini Mogra Basmati Rice (Short Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹319",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Biryani Basmati Rice (24)",
       "Quantity": "500 g",
-      "Price": "₹45",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Price": "₹116",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Nestle a+ Slim Dahi, Low Fat Cup Curd",
-      "Quantity": "380 g",
-      "Price": "₹77",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "Whole Farm Grocery Raw Broken Rice (Short Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹52",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "Mother Dairy Mishti Doi",
-      "Quantity": "80 g",
-      "Price": "₹20",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "India Gate Dubar Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹144",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "epigamia Mishti Doi",
-      "Quantity": "80 g",
-      "Price": "₹35",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "India Gate Weight Watchers Special Brown Rice (Long Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹121",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     },
     {
-      "Name": "epigamia Mishti Doi - Pack of 3",
-      "Quantity": "3 x 80 g",
-      "Price": "₹103",
-      "Category": "curd",
-      "Location": "Sainath Nagar, Wadgaon Sheri, Pune, Maharashtra 410014, India",
-      "Pincode": "410014",
-      "Date": "2025-07-04T05:03:31.306Z"
+      "Name": "Whole Farm Grocery Raw HMT Kolam Rice",
+      "Quantity": "5 kg",
+      "Price": "₹370",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Super Basmati Rice (1 kg + 500 g)",
+      "Quantity": "1 kg + 500 g",
+      "Price": "₹239",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Mogra Basmati Rice (Short Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹372",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Samak/Barnyard Millet/Oodhalu (Samak)",
+      "Quantity": "500 g",
+      "Price": "₹92",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Rozana Niki Mogra Basmati Rice (8)",
+      "Quantity": "10 kg",
+      "Price": "₹479",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Idli Rice (Short Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹76",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Indrayani Rice",
+      "Quantity": "1 kg",
+      "Price": "₹66",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Classic Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹239",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Fortune Biryani Special Extra Long Grain Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹199",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Organic Tattva Organic Sonamasuri Rice, 1 kg",
+      "Quantity": "1 kg",
+      "Price": "₹100",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Brown Basmati Rice (Extra Long Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹177",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Jeerasar Rice (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹354",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Fortune Hamesha Mini Dubar Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹371",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Tibar Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹139",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Indrayani Rice",
+      "Quantity": "5 kg",
+      "Price": "₹306",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Raw Sonamasuri Rice (6-12 Months)",
+      "Quantity": "5 kg",
+      "Price": "₹357",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Kolam Rice/Bullet Raw Wada / Lachkari",
+      "Quantity": "1 kg",
+      "Price": "₹90",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic White Sonamasuri Rice",
+      "Quantity": "1 kg",
+      "Price": "₹102",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Brown Sonamasuri Rice",
+      "Quantity": "1 kg",
+      "Price": "₹102",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Devaaya Weight Watchers Brown Rice (Medium Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹125",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Dosa Rice",
+      "Quantity": "1 kg",
+      "Price": "₹62",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Steam Sonamasuri Rice (12-15 Months)",
+      "Quantity": "1 kg",
+      "Price": "₹78",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Raw Sonamasuri Rice (12-15 Months)",
+      "Quantity": "5 kg",
+      "Price": "₹377",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Classic Basmati Rice",
+      "Quantity": "500 g",
+      "Price": "₹125",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Lachkari Raw Kolam Rice",
+      "Quantity": "1 kg",
+      "Price": "₹91",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Idli Rice",
+      "Quantity": "5 kg",
+      "Price": "₹376",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Biryani Basmati Rice (Long Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹117",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Khichdi Mix",
+      "Quantity": "500 g",
+      "Price": "₹64",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Organic Tattva White Organic Sonamasuri Rice",
+      "Quantity": "5 kg",
+      "Price": "₹445",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Active Mantras Low GI Rice",
+      "Quantity": "1 kg",
+      "Price": "₹150",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Organic Tattva Organic Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹183",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Raw Sonamasuri Rice",
+      "Quantity": "10 kg",
+      "Price": "₹656",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Fortune Rozana Super Basmati Rice (Medium Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹94",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Surti Raw Kolam Rice (Raw) 5 kg (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹453",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Mini Broken Mogra Basmati Rice",
+      "Quantity": "10 kg",
+      "Price": "₹556",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Lucknowi Biryani Kit (Extra Long Grain)",
+      "Quantity": "334 g",
+      "Price": "₹129",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Biryani Kit Kolkata (Extra Long Grain)",
+      "Quantity": "334 g",
+      "Price": "₹129",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Unity Whole Grain Brown Rice",
+      "Quantity": "1 kg",
+      "Price": "₹109",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Brown Basmati Rice",
+      "Quantity": "1 kg",
+      "Price": "₹174",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Broken Mogra Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹294",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Bullet Raw Kolam Rice/Wada/Lachkari",
+      "Quantity": "5 kg",
+      "Price": "₹416",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Sonamasuri Rice",
+      "Quantity": "5 kg",
+      "Price": "₹519",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Steam Sonamasuri Rice (12-15 Months) - Pack of 2",
+      "Quantity": "2 x 1 kg",
+      "Price": "₹154",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Raw Sonamasuri Rice (6-12 Months) - 10 kg",
+      "Quantity": "10 kg",
+      "Price": "₹704",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Fortune Everyday Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹608",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Raw Wada Kolam Rice",
+      "Quantity": "5 kg",
+      "Price": "₹462",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Daawat Devaaya Everyday Basmati Rice",
+      "Quantity": "5 kg",
+      "Price": "₹349",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Long Grain Parmal Rice (Long Grain)",
+      "Quantity": "5 kg",
+      "Price": "₹351",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Ambemohar Rice - Pack of 2",
+      "Quantity": "2 x 1 kg",
+      "Price": "₹264",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Surti Raw Kolam Rice",
+      "Quantity": "10 kg",
+      "Price": "₹889",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Wada Kolam Rice",
+      "Quantity": "10 kg",
+      "Price": "₹820",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Ambemohar Rice",
+      "Quantity": "1 kg",
+      "Price": "₹134",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "India Gate Jeera Rice (Short Grain)",
+      "Quantity": "1 kg",
+      "Price": "₹202",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Raw Sonamasuri Rice (12-15 months old)",
+      "Quantity": "1 kg",
+      "Price": "₹84",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Kurnool Steam Sonamasuri Rice",
+      "Quantity": "10 kg",
+      "Price": "₹634",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Low GI Rice",
+      "Quantity": "5 kg",
+      "Price": "₹618",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Grocery Steam Sonamasuri Rice (6-12 Months)",
+      "Quantity": "1 kg",
+      "Price": "₹69",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Whole Farm Premium Rice Flour/Rice Atta",
+      "Quantity": "500 g",
+      "Price": "₹36",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "24 Mantra Organic Puffed Rice",
+      "Quantity": "200 g",
+      "Price": "₹27",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Roli Chawal Set with Chandan & Mishri by ServDharm",
+      "Quantity": "1 pack (4 pieces)",
+      "Price": "₹42",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Roli Chawal Set (Orange)",
+      "Quantity": "1 pack (4 pieces)",
+      "Price": "₹27",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
+    },
+    {
+      "Name": "Roli Chawal Set (Red)",
+      "Quantity": "1 pack (4 pieces)",
+      "Price": "₹27",
+      "Category": "rice",
+      "Location": "Raipur, Chhattisgarh 492001, India",
+      "Pincode": "492001",
+      "Date": "2025-07-07T09:20:57.906Z"
     }
   ]
 }
